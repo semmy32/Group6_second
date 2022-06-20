@@ -1,2 +1,2 @@
 Feature: First feature
-  Scenario: Github collaboration
+  Scenario: Github collaboration working
